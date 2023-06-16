@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ardpeiris" target="blank"><img src="https://img.shields.io/twitter/follow/ardpeiris?logo=twitter&style=for-the-badge" alt="ardpeiris" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **react, node, mongoDb**
 
