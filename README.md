@@ -1,5 +1,7 @@
 <h3 align="center">Full Stack Developer | SLIIT Undergraduate (Y3)</h3>
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/russellpeiris.svg)](https://user-badge.committers.top/sri_lanka/russellpeiris)
+
 
 <p align="left"> <a href="https://twitter.com/ardpeiris" target="blank"><img src="https://img.shields.io/twitter/follow/ardpeiris?logo=twitter&style=for-the-badge" alt="ardpeiris" /></a> </p>
 
