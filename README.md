@@ -1,6 +1,5 @@
 <h2 align="left">Russell Peiris</h2>
-I'm a third year undergraduate at SLIIT with one year of industry experience at BetaLaunch Pvt Limited
-
+Y3S2 Undergraduate at SLIIT with 1 year of internship experience. Currently exploring intern opportunities for immense career and technical skill development.
 
 <h2 align="left"> 🛠 Skills</h2>
 
