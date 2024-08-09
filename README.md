@@ -1,5 +1,5 @@
 <h2 align="left">Russell Peiris</h2>
-Y3S2 Undergraduate at SLIIT with 1 year of internship experience. Currently exploring intern opportunities for immense career and technical skill development.
+Final Year Undergraduate at SLIIT with industry experience & currently pursuing my second internship at LSEG.
 
 <h2 align="left"> 🛠 Skills</h2>
 
