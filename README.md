@@ -1,6 +1,5 @@
 <h2 align="left">Russell Peiris</h2>
-Final Year Undergraduate at SLIIT with industry experience & currently pursuing my second internship at LSEG.
-
+With the goal of becoming a seasoned software engineer, I am currently completing the final semester of my BSc (Hons) in Information Technology, specializing in Software Engineering at SLIIT with 1 year and 6 months of industry experience.
 <h2 align="left"> 🛠 Skills</h2>
 
 ###
